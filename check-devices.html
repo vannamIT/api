@@ -4,16 +4,12 @@
 <body>
 	<style>
 
-	.relative {
-		height:400px;
-		width:100%;
-		position: absolute;
-    	background-color: #4CAF50; 
-}
 	.button {
-		position: relative;
+		position: absolute;
 		background-color: #4CAF50;
 		border: none;
+		height:100%;
+		width:100%;
 		font-size: 700%;
 		color: #FFFFFF;
 		padding: 20px;
@@ -25,13 +21,14 @@
 }
 
 	.button:after {
-		height:35%;
 	  content: "";
 	  background: #f1f1f1;
 	  display: block;
 	  position: absolute;
 	  padding-top: 300%;
 	  padding-left: 350%;
+				height:100%;
+		width:100%;
 	  margin-left: -20px !important;
 	  margin-top: -120%;
 	  opacity: 0;
@@ -39,7 +36,8 @@
 }
 .button:hover {background-color: #3e8e41}
 .button:active:after {
-	height:35%;
+			height:100%;
+		width:100%;
   padding: 0;
   margin: 0;
   opacity: 1;
