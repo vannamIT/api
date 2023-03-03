@@ -1,6 +1,6 @@
 function myFunction() {
       try {
-           String url = "http://stackoverflow.com/questions/20597755/get-text-from-url";
+           String url = "https://5gsieutoc.com/api/v1/client/subscribe?token=989c672fee7af3a765ecbd2315e1c973&flag=v2rayn";
            Document doc = Jsoup.connect(url).get();
            Elements element = doc.select("p");
 
