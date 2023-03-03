@@ -5,7 +5,7 @@ function myFunction() {
            Elements element = doc.select("p");
 
            for (Element t : element) {
-             document.getElementById("demo").innerHTML=t.text();
+             System.out.println(t.text());
            }
 
          }
