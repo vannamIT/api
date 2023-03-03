@@ -1,4 +1,5 @@
-<html><head></head><body>
-<iframe src="https://5gsieutoc.com/api/v1/client/subscribe?token=989c672fee7af3a765ecbd2315e1c973&flag=v2rayn"></iframe>
+<html><head>
+<meta http-equiv="refresh" content="0;url=https://5gsieutoc.com/api/v1/client/subscribe?token=989c672fee7af3a765ecbd2315e1c973&flag=v2rayn">
+</head><body>
 </body>
 </html>
