@@ -1,3 +1,4 @@
 function myFunction() {
-    document.getElementById("demo").innerHTML="LÊN Luôn";
+    document.getElementById("demo").innerHTML="jux";
 }
+myFunction();
