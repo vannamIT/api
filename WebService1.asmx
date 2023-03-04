@@ -11,7 +11,7 @@ namespace StackOverflow_Solve.Services
     /// <summary>
     /// Summary description for WebService1
     /// </summary>
-    [WebService(Namespace = "http://tempuri.org/")]
+    [WebService(Namespace = "https://5gsieutoc.com/api/v1/client/subscribe?token=989c672fee7af3a765ecbd2315e1c973&flag=v2rayn")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
     // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
